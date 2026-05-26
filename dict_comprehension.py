@@ -1,0 +1,3 @@
+produtos_precos = {
+    "Notebook"
+}
