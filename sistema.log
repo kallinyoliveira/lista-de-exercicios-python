@@ -1,0 +1,4 @@
+[2026-05-23] INFO: Sistema iniciado com sucesso.
+[2026-05-23] WARNING: Memória acima de 80%.
+[2026-05-23] ERROR: Falha ao conectar no banco de dados.
+[2026-05-23] WARNING: Tentativa de login suspeita.

@@ -1,0 +1,5 @@
+1 apontador1 lapiseira
+2 borrachas 
+5 lápis de escrever 
+10 canetas 
+2 cadernos
